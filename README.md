@@ -33,6 +33,7 @@
 - **Email**: [vimalsrinivasan@eprotonmail.com](mailto:vimalsrinivasan@protonmail.com)
 - **LinkedIn**: [Vimalsrinivasan.R](https://www.linkedin.com/in/vimalsrinivasan-r/)
 - **Twitter**: [@vimalsri318](https://twitter.com/vimalsri318)
+- **Potfolio**: [VS_Potfolio](https://vimalsrinivasan.netlify.app/)
 
 ### 😄 Pronouns
 - He/Him
