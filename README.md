@@ -30,7 +30,7 @@
 - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
 ### 📫 How to reach me
-- **Email**: [vimalsrinivasan@eprotonmail.com](mailto:vimalsrinivasan@protonmail.com)
+- **Email**: [vimalsrinivasan@eprotonmail.com](mailto:vimalsrinivasansn@gmail.com)
 - **LinkedIn**: [Vimalsrinivasan.R](https://www.linkedin.com/in/vimalsrinivasan-r/)
 - **Twitter**: [@vimalsri318](https://twitter.com/vimalsri318)
 - **Potfolio**: [VS_Potfolio](https://vimalsrinivasan.netlify.app/)
